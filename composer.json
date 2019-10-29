@@ -1,7 +1,7 @@
 {
-    "name": "salim/sonata-translation-bundle",
+    "name": "dkartasis8bitgroup/sonata-translation-bundle",
     "description": "Integration of lexik translation into sonata admin",
-    "keywords": ["salim", "lexik", "translation", "sonata"],
+    "keywords": ["dkartasis8bitgroup", "lexik", "translation", "sonata"],
     "type": "symfony-bundle",
     "license": "MIT",
     "require": {
